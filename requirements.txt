@@ -13,14 +13,14 @@ langchain-huggingface==0.0.3
 langchain-ollama==0.1.0
 
 # Vector Store & Embeddings
-faiss-cpu==1.7.4
-sentence-transformers==2.7.0
+faiss-cpu
+sentence-transformers
 
 # PDF Processing
-pypdf==4.2.0
+pypdf
 
 # HTTP Client
-requests==2.31.0
+requests
 
 # Additional utilities
-python-dotenv==1.0.0
+python-dotenv
